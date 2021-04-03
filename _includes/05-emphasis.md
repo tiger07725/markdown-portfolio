@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### Skillz
+Carry a tiger:tiger: by __bicycle__:bike:.
