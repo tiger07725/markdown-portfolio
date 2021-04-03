@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+My favorite activities:
+* Sleep
+  * 12 hours
+* Eat
+  * fried chicken
+* Play video games
+* Watch others play video games
